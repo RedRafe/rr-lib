@@ -1,2 +1,5 @@
-# rr-lib
-A factotio lib
+# Red Rafe's Library
+
+---
+
+A library for Factorio mods

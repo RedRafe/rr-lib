@@ -1,0 +1,13 @@
+{
+  "name": "rr-lib",
+  "version": "0.1.0",
+  "title": "Red Rafe's Library",
+  "author": "RedRafe",
+  "source": "https://github.com/RedRafe/rr-lib",
+  "homepage": "https://mods.factorio.com/mod/rr-lib",
+  "dependencies": [
+    "base >= 1.1.0"
+  ],
+  "description": "A library for Factorio mods",
+  "factorio_version": "1.1"
+}
