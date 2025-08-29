@@ -10,12 +10,6 @@
       "group": "build",
     },
     {
-      "label": "Log in Git RedRafe",
-      "type": "shell",
-      "command": "chmod +x ./.vscode/tasks/switch_git.sh ; ./.vscode/tasks/switch_git.sh",
-      "group": "build",
-    },
-    {
       "label": "Copy",
       "type": "shell",
       "command": "chmod +x ./.vscode/tasks/copy.sh ; ./.vscode/tasks/copy.sh",
